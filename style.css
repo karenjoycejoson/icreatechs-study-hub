@@ -1,0 +1,48 @@
+
+.page-title{
+  font-family: 'Josefin Slab',serif;
+  text-align: center;
+}
+.page-intro{
+  font-family: 'Englebert', sans-serif;
+  line-height: 25px;  
+  margin-top: 0;
+  margin-bottom: 0;
+  text-align: center;
+}
+.prog-languages,.my-hobbies{
+  font-family: 'Special Elite', cursive;
+}
+.u-list{
+  list-style-image: url("one.png");
+}
+.u-list,.o-list{
+  font-family: 'Englebert', sans-serif;
+}
+.photo{
+  display: flex;
+  justify-content: center;
+}
+.zodiac-sign{
+  width: 200px;
+  border-radius: 100px;
+}
+
+.link{
+  text-align: center;
+}
+a:link, a:visited{
+  font-family: 'Josefin Slab',serif;
+  font-weight: 700;
+  background-color: palevioletred;
+  color: white;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  padding: 14px 25px;
+  border-radius: 7px;
+}
+a:hover, a:active{
+  background-color: lightpink;
+}
+
